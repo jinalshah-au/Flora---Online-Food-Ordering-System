@@ -164,7 +164,7 @@ function isEmpty($value){
         <a href="#" class="logo"><i class="fas fa-utensils"></i>FLORA</a>
 
         <nav class="navbar">
-            <a class="active" href="index.php" style="font-size:16px;color:white;text-decoration:none;">home</a>
+            <a class="active" href="index.php" style="font-size:16px;color:white;text-decoration:none;">Home</a>
         </nav>
 
     </header>

@@ -149,7 +149,7 @@ function isEmpty($value){
 
         <nav class="navbar">
             <a class="btn" href="index.php"
-                style="text-align:center;color:white;margin-left:17px; font-size:18px;background:var(--green);">home</a>
+                style="text-align:center;color:white;margin-left:17px; font-size:18px;background:var(--green);">Home</a>
         </nav>
     </header>
 
