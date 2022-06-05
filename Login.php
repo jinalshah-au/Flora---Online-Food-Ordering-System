@@ -1,8 +1,9 @@
 <?php
-session_start();
-include('controller/controller.php');
-$controller = new controller();
+session_start(); // Session start for particular user to track the activity
+include('controller/controller.php'); // including controller file 
+$controller = new controller(); // Creating object of controller 
 
+// Checking the type of user and if incorrect then it will show error in the popup box
 if(isset($_POST['signin'])){
     $username = $_POST['username'];
     $password = $_POST['password'];

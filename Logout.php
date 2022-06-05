@@ -1,5 +1,7 @@
+
+
 <?php
-session_start();
+session_start(); // destorying current user session and logut the user
 if(isset($_SESSION['id'])){
 session_destroy();
 echo "<script> alert('Logging Out.')</script>";
