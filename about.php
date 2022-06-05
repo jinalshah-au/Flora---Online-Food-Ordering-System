@@ -92,27 +92,23 @@ if ($id != null) {
     </div>
 
 <div style="margin-top:30px;margin-right:50px;margin-left:50px;margin-bottom:20px;font-size:20px;">
-Welcome to FLORA, your number one source for online food delivering. We're dedicated to giving you the very best of our service, with a focus on time, quality, freshness.
+Welcome to FLORA, your number one source for online food delivering. We're dedicated to giving you the very best of our service, with a focus on time, health, quality and freshness.
 
 <br>
 <br>
-Founded in 2022 by Hirvi, FLORA has come a long way from its beginnings in New York.
- When Hirvi first started out, her passion for fresh food delivering at
-  door step drove them to do tons of research, so that FLORA can offer you
-   the best and the fastest food delivery service. We now serve customers all
-    over United State Of America.
+Founded in 2019, FLORA has come a long way from its beginnings in <strong>Ballarat, Victoria</strong> as a small restaurant to bringing first individual online food ordering system in regional Victoria.
+When Flora first started out, our passion for healthy and nutritious food delivering at door step drove us to do tons of research, so that FLORA can offer you
+the healthiest and the fastest food delivery service. We now serve customers all over Ballarat and neighboring regional towns of Victoria.
 
 
     <br>
 <br>
-We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
+We hope you enjoy our healthy products as much as we enjoy offering our service to you. If you have any questions or comments, please don't hesitate to contact us.
 
 <br>
 <br>
 
-Sincerely,<br>
 
-Hirvi.
 </div>
 
   <!-- Footer -->
@@ -219,7 +215,7 @@ Hirvi.
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
             <p><i class="fas fa-home mr-3"></i> Ballarat, VIC 3350, AU</p>
-            <p><i class="fas fa-envelope mr-3"></i> floraballarat@outlook.com</p>
+            <p><i class="fas fa-envelope mr-3"></i> flora@gmail.com</p>
             <p><i class="fas fa-phone mr-3"></i> + 61 234 567 88</p>
             <p><i class="fas fa-print mr-3"></i> + 61 234 567 89</p>
           </div>
@@ -235,13 +231,8 @@ Hirvi.
          class="text-center p-3"
          style="background-color: rgba(0, 0, 0, 0.2)"
          >
-         Copyright  ©  
-         <script>
-            var CurrentYear = new Date().getFullYear();
-            document.write(CurrentYear);
-          </script>
-      By
-      <a class="text-dark" href="#"
+      © 2020 Copyright:
+      <a class="text-dark" href="https://mdbootstrap.com/"
          >Flora.com</a
         >
     </div>
