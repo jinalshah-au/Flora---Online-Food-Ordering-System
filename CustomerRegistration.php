@@ -22,7 +22,7 @@ if(isset($_POST['submit']) && isset($_FILES['image'])){
         }else{
             $user = new Customer('',$email,$username,$file,$phone,$password,$address);
             if(controller::createUser($user)){
-                echo "<script> window.location = 'Login.html';</script>";
+                echo "<script> window.location = 'Login.php';</script>";
             }
         }
     }
